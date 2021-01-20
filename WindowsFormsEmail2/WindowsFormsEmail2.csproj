@@ -72,7 +72,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="bin\Debug\DebugEmail2.rar" />
     <None Include="bin\Debug\WindowsFormsEmail2.exe.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -89,7 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\Debug\LumiSoft.Net.dll" />
-    <Content Include="bin\Debug\WindowsFormsEmail2.exe" />
+    <Content Include="bin\Debug\TextFile1.txt" />
     <Content Include="bin\Debug\WindowsFormsEmail2.pdb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
